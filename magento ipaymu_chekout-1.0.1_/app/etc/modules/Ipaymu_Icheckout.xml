@@ -1,0 +1,11 @@
+<config>
+    <modules>
+        <Ipaymu_Icheckout>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Payment />
+            </depends>
+        </Ipaymu_Icheckout>
+    </modules>
+</config>
